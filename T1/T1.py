@@ -108,4 +108,3 @@ while True:
                 print("MOVE " + str(wizards[1].closeX) + " " + str(wizards[0].closeY) + " 100")
             else:
                 print("THROW " + str(goalX) + " " + str(goalY) + " 500")
-                
